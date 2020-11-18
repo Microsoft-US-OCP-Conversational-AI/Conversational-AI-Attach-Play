@@ -49,10 +49,10 @@ Regardless of the option you choose, you'll have to consider:
 - Unique naming of resources - many services may require a globally unique name, for example, App service, container registry.
 
 ## Contributors
-Annie Xu
-Anthony Franklin
-Ariel Luna
-Claire Rehfuss
-Praveen Rawat
-Sowmyan Soman Chullikkattil
-Wayne Smith
+Annie Xu;
+Anthony Franklin;
+Ariel Luna;
+Claire Rehfuss;
+Praveen Rawat;
+Sowmyan Soman Chullikkattil;
+Wayne Smith.
