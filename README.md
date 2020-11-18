@@ -9,10 +9,10 @@ This Conversational AI Attach Play hack will help you to learn:
 1. How to use QNA maker to create multi-turn knowledge base
 1. How to use Bot Framework Composer to build a code free Bot
 1. Understand the Azure AI services within Bot Solution (LUIS, Direct Line Speech)
-1. Publish your BOT into Azure and Embedded into our sample web Application 
-1. Integrate your BOT into Microsoft Teams which enables human interactions Teams Channel
-1. Integrate your BOT with Azure Communication Services which enables human interactions via phone, videos, and SMS
-1. Implement DevOps pipeline best practices
+1. Publish your Bot into Azure and Embedded into our sample web Application 
+1. Integrate your Bot into Microsoft Teams which enables human interactions Teams Channel
+1. Integrate your Bot with Azure Communication Services which enables human interactions via phone, videos, and SMS
+1. Implement DevOps best practices
 1. Extend the bot with Azure Data Services to enable advanced ML and big data capabilities. (Optional)
 
 ## Challenges
@@ -20,7 +20,7 @@ This Conversational AI Attach Play hack will help you to learn:
  - [Challenge 1](./Student/Challenge1.md) - Create Multi-Turn QNA Knowledge Base
  - [Challenge 2](./Student/Challenge2.md) - Create LUIS Intent
  - [Challenge 3](./Student/Challenge3.md) - Make API Call  
- - [Challenge 4](./Student/Challenge4.md) - publish your bot to Azure and enable Teams Channel
+ - [Challenge 4](./Student/Challenge4.md) - Publish your Bot to Azure and enable Teams Channel
  - [Challenge 5](./Student/Challenge5.md) - Embed your Bot to the sample Front End Web Application and enable Direct Line Speech (In progress)
  - [Challenge 6](./Student/Challenge6.md) - Integrate your Bot with Azure Communication Services (In progress)
  - [Challenge 7](./Student/Challenge7.md) - Implement DevOps best practices into your Bot (In progress)
