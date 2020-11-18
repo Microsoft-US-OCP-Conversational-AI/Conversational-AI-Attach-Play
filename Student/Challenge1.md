@@ -1,12 +1,12 @@
 # Challenge 1 - QnA Maker
 
 ## Introduction
-QnA maker is a no code experience that allows you to create a natural conversational layer over you data. It is used to find the most appropriate answer for any input from your custom knowledge base of information. We're going to be building out a QnA based off of *This* Document. However you can build QnA out of a website, excel document, FAQ, etc. Our QnA Knowledge base will deal with the ESG portion of our project. You can image that a Investment Manager is looking at their stocks and considering what to buy. They can come to the bot and ask for the ESG rating of a specific company and then dive deeper into what the Company believes in specific Environmental topics. In this hack we're just focusing on Microsoft, but building out this bot in enterprise you would have a much larger Knowledge base to pull from.
+QnA maker is a no code experience that allows you to create a natural conversational layer over you data. It is used to find the most appropriate answer for any input from your custom knowledge base of information. We're going to be building out a QnA based off of the FSI Industry Use Case Document that is in the Student folder of this Github. However you can build QnA out of a website, excel document, FAQ, etc. Our QnA Knowledge base will deal with the ESG portion of our project. You can image that a Investment Manager is looking at their stocks and considering what to buy. They can interact with the bot to ask for the ESG rating of a specific company and then dive deeper into  the Company belief's for specific Environmental topics. In this hack we're just focusing on Microsoft, but building out a enterpris bot you would have a much larger knowledge base to pull from.
 
 
 ## Description
 1. Create a QNA Maker resource at [QnaMaker.ai](https://www.qnamaker.ai/), you'll have to provision the resource in the Azure Portal.
-2. Build a knowledge base based off of (This) document. Upload the document, look at how the format was automatically uploaded, and then fine tune as necessary
+2. Build a knowledge base based off of the FSI Use Case document that is in this Github Repo. Upload the document, look at how the format was automatically uploaded, and fine tune as necessary
 3. Ensure that you are using the multi-turn conversation feature so that when you ask - for example - " What Is Microsoft's ESG rating?" you have the option of clicking "Climate Change", "Human Capital", "Corporate Governance", and "Product Liability".
    - You should also include the option for "Return to previous" Conversation under each of those selections.
 4. Integrate the QnA maker knowledge base to your bot by selection "Connect to QnA KnowledgeBase" you'll need to know your keys and endpoint.
