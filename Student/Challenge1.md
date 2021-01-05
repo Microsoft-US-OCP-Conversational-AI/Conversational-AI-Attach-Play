@@ -11,6 +11,7 @@ QnA maker is a no code experience that allows you to create a natural conversati
    - You should also include the option for "Return to previous" Conversation under each of those selections.
 4. Integrate the QnA maker knowledge base to your bot by selection "Connect to QnA KnowledgeBase" you'll need to know your keys and endpoint.
 5. Test your bot locally using the Bot Framework Emulator. You should be able to flow through the conversations easily.
+6. Create a QNA KB using source [Microsoft Investor FAQ](https://www.microsoft.com/en-us/Investor/FAQ.aspx locally using Bot Composer). Please refer to the Resources section on how to make a QNA KB in composer. This KB concept will be used for integrated local CICD experience for your later challenge. 
 
 
 ## Successful criteria
@@ -21,3 +22,4 @@ QnA maker is a no code experience that allows you to create a natural conversati
 1. [What is QnA Maker?](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview)
 2. [Create a QnA Maker Knowledge base](https://docs.microsoft.com/en-us/composer/how-to-create-qna-kb)
 3. [Add a QnA Maker knowledge base to your bot](https://docs.microsoft.com/en-us/composer/how-to-add-qna-to-bot#:~:text=Composer%20allows%20you%20to%20build%20bots%20that%20contain,a%20bot%20using%20QnA%20Maker%20and%20LUIS%20intents.)
+4. [Create a QnA KB in Composer](https://docs.microsoft.com/en-us/composer/how-to-create-qna-kb)
