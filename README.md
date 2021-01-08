@@ -17,12 +17,12 @@ This Conversational AI Attach Play hack will help you to learn:
 1. Extend the bot with Azure Data Services to enable advanced ML and big data capabilities. (Optional)
 
 ## Challenges
- - [Challenge 0](./Student/Challenge0.md) - Setup and Introduction
- - [Challenge 1](./Student/Challenge1.md) - Create Multi-Turn QNA Knowledge Base
- - [Challenge 2](./Student/Challenge2.md) - Create LUIS Intent
- - [Challenge 3](./Student/Challenge3.md) - Make API Call  
- - [Challenge 4](./Student/Challenge4.md) - Publish your Bot to Azure and enable Teams Channel
- - [Challenge 5](./Student/Challenge5.md) - Embed your Bot to the sample Front End Web Application and enable Direct Line Speech (In progress)
+ - [Challenge 0](./Student/Challenge0-Setup.md) - Setup and Introduction
+ - [Challenge 1](./Student/Challenge1-QnA.md) - Create Multi-Turn QNA Knowledge Base
+ - [Challenge 2](./Student/Challenge2-LUIS.md) - Create LUIS Intent
+ - [Challenge 3](./Student/Challenge3-API.md) - Make API Call  
+ - [Challenge 4](./Student/Challenge4-Deployment.md) - Publish your Bot to Azure and enable Teams Channel
+ - [Challenge 5](./Student/Challenge5-FrontEnd.md) - Embed your Bot to the sample Front End Web Application and enable Direct Line Speech (In progress)
  - [Challenge 6](./Student/Challenge6.md) - Integrate your Bot with Azure Communication Services (In progress)
  - [Challenge 7](./Student/Challenge7.md) - Implement DevOps best practices into your Bot (In progress)
  - [Challenge 8](./Student/Challenge8.md) - Add Advanced intelligence to your Bot using Azure Data Services (In progress)
