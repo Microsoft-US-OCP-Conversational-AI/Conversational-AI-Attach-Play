@@ -1,4 +1,4 @@
-# LUIS
+# Challenge 2 - Implementing LUIS
 
 ## Introduction
 LUIS is a cloud-based conversational AI service that applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information. LUIS easily integrated in the Bot Composer so that you can trigger a different dialog flow according to the intent of the User's utterance. 
@@ -28,3 +28,5 @@ We are going to build out a LUIS triggered dialog flow to help answer the curren
 ## Resources
 1. [Introduction to LUIS](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-luis)
 2. [Define intents with entities](https://docs.microsoft.com/en-us/composer/how-to-define-intent-entity)
+
+[Next Challenge - Making API Calls > ](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge3.md)
