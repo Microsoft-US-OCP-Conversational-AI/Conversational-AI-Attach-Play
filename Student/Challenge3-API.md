@@ -23,3 +23,5 @@ The power of the Bot Service is the ability to add your own API's. In this chall
 ## Resources:
 1. [API Documentation | Finnhub](https://finnhub.io/docs/api)
 2. [Send an HTTP request  - Bot Composer](https://docs.microsoft.com/en-us/composer/how-to-send-http-request)
+
+[Next Challenge - Deploying and integrating with Microsoft Teams >](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge4.md)
