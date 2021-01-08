@@ -1,7 +1,8 @@
 # What The Hack - Conversational-AI-Attach-Play
 
 ## Introduction
-Microsoft Bot services provided easy to build code free solutions for citizen developers to build a bot that can naturally interact with users by easily integrating Cognitive services and other Microsoft products like Teams, Azure Communication Services. The goal of this hack is to build out a demo of a Financial Services Bot which focuses on ESG.
+The Conversational AI Attatch Play WhatTheHack will take you through architecting a Chatbot with an FSI industry focus that is more intelligent that an out of the box chatbot. This is a challenge-based hack. It's NOT step-by-step. Don't worry, you will do great whatever your level of experience! You will be guided through different tasks to implement the FSI ChatBot by leveraging a serverless architecture within Azure using a combination of Azure Bot Composer, QnA Maker, LUIS, Azure Databricks, and Azure Communication Services. The focus is on building ontop of what you know from Azure Bot Services and attaching further services to enable a truely Enterprise scale bot.  The intent is to have you practice the tools, technologies and services our partners are asking you about. Let's try to go out of your comfort zone, try and learn something new. And let's have fun! And don't forget there are proctors around you, just raise your hand at any time!
+
 
 ## Learning Objectives
 
