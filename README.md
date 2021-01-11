@@ -16,6 +16,15 @@ This Conversational AI Attach Play hack will help you to learn:
 1. Implement DevOps best practices
 1. Extend the bot with Azure Data Services to enable advanced ML and big data capabilities. (Optional)
 
+## Solution Architecture
+
+The solution starts with a user likely a Finance Manager who is looking at companies to invest in. The user cares about the ESG ratings and stock prices of potential companies. The user sends a request to the Azure Web App front end that then uses Azure Functions to generate direct line and direct line speech tokens for the Bot Service.  Bot Service is then called and the user is authenticated using Azure AD to ensure that they have the access necessary to communicate with the bot. Once the tokens have been passed Bot Service makes queries to the Bot Logic. In this hack, we are setting up all of the bot logic and conversations using Azure Bot Composer. Depending on the query the bot will call one or more of the following: Speech Services (in the case that the query comes in the form of Speech from the Speech Enabled Web App), LUIS (which is always called to detect the intent and entities from the request), QnA Maker (in our case if the user is asking an ESG related question about the company), Text Analytics (to run sentiment analysis), or make an HTTP request to an outside API (here we are using Finnhub.io to get real-time stock price of the company in question). The results of the bot cognition determine how the bot will proceed in the conversation, but all of the conversations and uses are stored using Application Insights, Cosmos DB, and Azure Storage. This way IT can see how the bot is being used and build further extensions as necessary. We are also using Azure DevOps to handle the CI/CD pipeline of the bot, which is necessary for the further improvement and development of the solution. 
+
+Although in the above example we exemplify the user making a request through the web front end the user can also access the bot through Azure Communication Services or Microsoft Teams. With these improvements, the user can now interact using phone calls, texts, or on their computer with Teams if that is the environment they are used to working with. 
+
+Below is a diagram of the solution architecture you will build in this hack. Please study this carefully, so you understand the whole of the solution as you are working on the various components.
+
+
 ## Challenges
  - [Challenge 0](./Student/Challenge0-Setup.md) - Setup and Introduction
  - [Challenge 1](./Student/Challenge1-QnA.md) - Create Multi-Turn QNA Knowledge Base
