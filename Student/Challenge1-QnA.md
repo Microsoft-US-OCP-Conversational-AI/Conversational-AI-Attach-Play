@@ -24,4 +24,4 @@ QnA maker is a no code experience that allows you to create a natural conversati
 3. [Add a QnA Maker knowledge base to your bot](https://docs.microsoft.com/en-us/composer/how-to-add-qna-to-bot#:~:text=Composer%20allows%20you%20to%20build%20bots%20that%20contain,a%20bot%20using%20QnA%20Maker%20and%20LUIS%20intents.)
 4. [Create a QnA KB in Composer](https://docs.microsoft.com/en-us/composer/how-to-create-qna-kb)
 
-[Next Challenge - Implementing LUIS >](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge2-LUIS.md)
+[Next Challenge - Implementing LUIS >](./Challenge2-LUIS.md)

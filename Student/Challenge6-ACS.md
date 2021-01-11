@@ -22,4 +22,4 @@ Build a trusted authentication service using Azure Functions in Azure Communicat
  
 Group calling hero sample - An Azure Communication Services sample overview | Microsoft Docs
 
-[Next Challenge - Create CICD pipelines for your solution](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge7-CICD.md)
+[Next Challenge - Create CICD pipelines for your solution >](./Challenge7-CICD.md)

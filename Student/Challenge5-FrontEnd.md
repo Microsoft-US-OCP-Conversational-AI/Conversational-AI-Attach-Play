@@ -21,4 +21,4 @@ Now that we've finished deployed our Bot into Azure. You can then enriching your
 	- [Connect a bot to Direct Line Speech](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-directlinespeech?view=azure-bot-service-4.0#:~:text=Add%20the%20Direct%20Line%20Speech%20channel%20In%20your,the%20bot.%20In%20the%20left%20panel%2C%20select%20Channels.)
 
 
-[Next Challenge - Extent to Azure Communication Services](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge6-ACS.md)
+[Next Challenge - Extent to Azure Communication Service >](./Challenge6-ACS.md)
