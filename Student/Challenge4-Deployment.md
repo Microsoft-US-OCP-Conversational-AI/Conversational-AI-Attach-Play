@@ -24,4 +24,4 @@ Now that we've finished developing our bot locally we can deploy the bot. Deploy
 	- [Connect a bot to Microsoft Teams](https://docs.microsoft.com/en-us/azure/bot-service/channel-connect-teams?view=azure-bot-service-4.0) 
 
 
-[Next Challenge - Embed your bot > ](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge5.md)
+[Next Challenge - Embed your bot > ](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge5-FrontEnd.md)

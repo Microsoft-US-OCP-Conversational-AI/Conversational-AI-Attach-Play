@@ -25,4 +25,4 @@ Bot Composer is an open source visual authoring canvas for developers and multid
 3. [Install Bot Framework Composer](https://docs.microsoft.com/en-us/composer/install-composer)
 4. [Create your first bot - Bot Composer](https://docs.microsoft.com/en-us/composer/quickstart-create-bot)
 
-[Next Challenge - Using QnA Maker >](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge1.md)
+[Next Challenge - Using QnA Maker >](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge1-QnA.md)

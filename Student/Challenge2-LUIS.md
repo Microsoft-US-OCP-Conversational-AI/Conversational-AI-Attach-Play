@@ -29,4 +29,4 @@ We are going to build out a LUIS triggered dialog flow to help answer the curren
 1. [Introduction to LUIS](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-luis)
 2. [Define intents with entities](https://docs.microsoft.com/en-us/composer/how-to-define-intent-entity)
 
-[Next Challenge - Making API Calls > ](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge3.md)
+[Next Challenge - Making API Calls > ](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Student/Challenge3-API.md)
