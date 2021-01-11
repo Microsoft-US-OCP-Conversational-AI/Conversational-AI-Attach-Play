@@ -24,6 +24,7 @@ Although in the above example we exemplify the user making a request through the
 
 Below is a diagram of the solution architecture you will build in this hack. Please study this carefully, so you understand the whole of the solution as you are working on the various components.
 
+![Solution Architecture](https://github.com/Microsoft-US-OCP-Conversational-AI/Conversational-AI-Attach-Play/blob/master/Coach/SolutionArchitecture.PNG?raw=true)
 
 ## Challenges
  - [Challenge 0](./Student/Challenge0-Setup.md) - Setup and Introduction
